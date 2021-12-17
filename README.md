@@ -1,2 +1,2 @@
 # ftp-server
-这是一个FTP存储服务器
+This is a ftp server
